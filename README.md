@@ -1,2 +1,3 @@
 # Exercism
-https://exercism.org
+
+This repository contains exercise solutions for various [Exercism](https://exercism.org) learning paths
